@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Jam Tangan Klasik Chrono",
+    "category": "Jam Tangan",
+    "price": 2500000,
+    "imageUrl": "https://images.unsplash.com/your-image-url-1",
+    "description": "Sebuah jam tangan elegan dengan desain klasik yang tak lekang oleh waktu, cocok untuk segala acara."
+  },
+  {
+    "id": 2,
+    "name": "Sneakers Urban Explorer",
+    "category": "Sepatu",
+    "price": 1200000,
+    "imageUrl": "https://images.unsplash.com/your-image-url-2",
+    "description": "Sepatu sneakers yang nyaman dan stylish, dirancang untuk menjelajahi sudut kota dengan gaya."
+  }
+]
